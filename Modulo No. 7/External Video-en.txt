@@ -1,0 +1,23 @@
+Welcome to the SQL and Relational Database 101 Course Summary!
+You've covered the five modules in this course.
+You've learned that a relational database stores data in tabular form, with relationships
+between tables.
+Relational database management systems are the backbone of applications in many industries
+including banking, transportation, and healthcare.
+You can now explain that an Information Model is conceptual, defining relationships between
+objects, that a Data Model is specific, includes details, and is the blueprint of any database
+system, and that a Relational Model is the most used data model for databases because
+it allows for data independence.
+You can now discuss Entity-Relationship diagrams, relationships, how the ER diagram relates
+into a relational database table, and you can list the six types of Relational Model
+Constraints.
+We learned that for the majority of people using a database, there are 5 simple commands,
+and you can now identify examples of the syntax of these commands.
+In addition, you can list some advanced techniques in retrieving data from a relational table
+using string patterns, ranges or sets of values, and how to sort or group the result set.
+Finally, you can now explain how to combine data from two or more tables to create a result
+set using the JOIN operator, and list the different types of join operators, especially
+the most common type: the INNER JOIN.
+You've worked your way through all five modules, the review questions, and the four hands-on
+labs that gave you the chance to try out the concepts for yourself.
+Now you're ready to take the 15 questions final exam.

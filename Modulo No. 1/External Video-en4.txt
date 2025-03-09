@@ -1,0 +1,26 @@
+Hello, and welcome to Mapping Entities to Tables.
+In this video, we will learn how entities are mapped to relational database tables.
+At the end of this lesson, you will be able to explain how an E-R Diagram translates into
+a relational database table with rows and columns.
+Entity Relationship Diagrams are the basic foundation for designing a database.
+In the relational database design, begin with an ER diagram, or ERD, and later map the ERD
+to the tables in a database.
+In this example, we use the ERD for entity Book.
+Entity Book has several attributes.
+The entity and its attributes will be mapped to a table.
+For ease of understanding, lets separate the entity from the attributes.
+In this case, entity Book becomes a table with the same name Book.
+All the attributes translate into columns in the table.
+We will now see how a table would be represented in a Relational database model.
+A table is a combination of rows and columns.
+While mapping, the entity becomes the table.
+Having said that, the table has not yet taken the form of rows and columns.
+The attributes get translated into columns in a table providing the actual table form
+of rows and columns.
+Later we add some data values to each of the columns, which completes the table form.
+For the Author example, the entity Author becomes the table, and the attributes get
+translated to columns in the table.
+Adding some data values into the columns complete the table.
+You can now explain how an E-R Diagram translates into a relational database table with rows
+and columns.
+Thanks for watching this video.
